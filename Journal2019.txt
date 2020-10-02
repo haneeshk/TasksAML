@@ -1,0 +1,5 @@
+commit 9627a1ddabd72190e74209eec8ff125db4a4f8eb
+Author: Badmonky <hermann.sven@web.de>
+Date:   Fri Jan 4 00:43:57 2019 -0500
+
+    pushed the first version of journal gitter.
