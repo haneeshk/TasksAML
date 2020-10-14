@@ -3,3 +3,8 @@ Author: Badmonky <hermann.sven@web.de>
 Date:   Fri Jan 4 00:43:57 2019 -0500
 
     pushed the first version of journal gitter.
+commit 691a645cc6d60341becf6bd8632ebd53d1aa7bba
+Author: Haneesh Kesari <haneesh_kesari@brown.edu>
+Date:   Thu Oct 1 22:52:16 2020 -0400
+
+    firt entry
