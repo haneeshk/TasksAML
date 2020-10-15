@@ -51,3 +51,13 @@ Author: Haneesh Kesari <haneesh_kesari@brown.edu>
 Date:   Thu Oct 15 17:58:05 2020 -0400
 
     accept Brain Multiphysics email
+commit 835efa084fd0f3f71b03ebae988f5be35c7c0c49
+Author: Haneesh Kesari <haneesh_kesari@brown.edu>
+Date:   Thu Oct 15 18:15:39 2020 -0400
+
+    need to ask Wenqiang to check all the technical details of the sqrt manuscript
+commit 835efa084fd0f3f71b03ebae988f5be35c7c0c49
+Author: Haneesh Kesari <haneesh_kesari@brown.edu>
+Date:   Thu Oct 15 18:15:39 2020 -0400
+
+    need to ask Wenqiang to check all the technical details of the sqrt manuscript
