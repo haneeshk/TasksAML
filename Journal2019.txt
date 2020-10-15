@@ -13,3 +13,18 @@ Author: Haneesh Kesari <haneesh_kesari@brown.edu>
 Date:   Wed Oct 14 18:25:48 2020 -0400
 
     IMP : HK to HK: need to respond to Damiano Pasini today
+commit 3b5506270eefd564cb92f829de985ddf4b054f1c
+Author: Haneesh Kesari <haneesh_kesari@brown.edu>
+Date:   Thu Oct 15 16:31:41 2020 -0400
+
+    trying to convert a shell script into a command
+commit e84bb2e46b1612f0c137318673686e74a32df8df
+Author: Haneesh Kesari <haneesh_kesari@brown.edu>
+Date:   Thu Oct 15 16:32:19 2020 -0400
+
+    test
+commit 9bd2d25676460e9a112157e9a0a0d8280f1159ba
+Author: Haneesh Kesari <haneesh_kesari@brown.edu>
+Date:   Thu Oct 15 16:37:59 2020 -0400
+
+    test
