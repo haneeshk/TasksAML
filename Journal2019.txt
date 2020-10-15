@@ -33,3 +33,16 @@ Author: Haneesh Kesari <haneesh_kesari@brown.edu>
 Date:   Thu Oct 15 16:38:37 2020 -0400
 
     test2
+commit 84e7f2c824355b7a6f9b834a709142a5718c2dbd
+Author: Haneesh Kesari <haneesh_kesari@brown.edu>
+Date:   Thu Oct 15 17:06:35 2020 -0400
+
+    I think I should give a quick read of the mathematical introduction section of the manuscript.
+     Make a note of the new changes that Yang has do.
+    Then prepare for class. Maybe 5 to 6:00.
+    Dinner 6 to 7:00.
+    Class prepare 7 to 7:30.
+    Teach a class at 7:30 pm to 9:00 pm.
+    Walk 9 to 9:30.
+    Emails 10 to 10:30.
+    Stop work at 11:00
