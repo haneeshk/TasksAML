@@ -61,3 +61,8 @@ Author: Haneesh Kesari <haneesh_kesari@brown.edu>
 Date:   Thu Oct 15 18:15:39 2020 -0400
 
     need to ask Wenqiang to check all the technical details of the sqrt manuscript
+commit cc9b372513cac157d670bc5930394163c9412870
+Author: Haneesh Kesari <haneesh_kesari@brown.edu>
+Date:   Thu Oct 15 18:16:14 2020 -0400
+
+    need to respond to Christian for the pamplette email
