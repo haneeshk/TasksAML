@@ -66,3 +66,8 @@ Author: Haneesh Kesari <haneesh_kesari@brown.edu>
 Date:   Thu Oct 15 18:16:14 2020 -0400
 
     need to respond to Christian for the pamplette email
+commit 829478dc15707084e8d249edeef27f71911a3621
+Author: Haneesh Kesari <haneesh_kesari@brown.edu>
+Date:   Tue Oct 20 13:14:48 2020 -0400
+
+    uninstall Bakoma
